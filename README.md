@@ -9,4 +9,4 @@ More changes from my feature branch too.
 Sample website with plenty of files for demos
 
 pls fork for this repo and then issue pull request
-Copyright message
+Copyright message  . All rights reserved .
